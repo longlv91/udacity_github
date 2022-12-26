@@ -19,3 +19,6 @@ It's important to give proper credit. Add links to any repo that inspired you or
 Add comment to bikeshare.py
 
 III. Additonal change to documentation
+### Log
+
+SECTION IV: Refactor Code
